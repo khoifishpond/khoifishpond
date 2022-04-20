@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋🏼 Hi hello, my name is Khoi! 👋🏼
+
+- 😄 Pronouns: he/him
+- 🧑🏻‍💻 Ruby, Ruby on Rails, PostgreSQL, and Python
+- 🌱 Currently learning React
+- 🏋🏻‍♂️ Occassionally lifts heavy things to work up a sweat
+- 🏀 ⚾️ 🎾 🏒 Runs around to move round objects into nets
+- 🐶 Riley
 
 <!--
 **khoifishpond/khoifishpond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
